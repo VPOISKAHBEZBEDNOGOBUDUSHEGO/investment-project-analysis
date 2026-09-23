@@ -1,5 +1,8 @@
 # Оценка инвестиционных проектов в условиях неопределённости
 
+![tests](https://github.com/ivanstarodumov/investment-project-analysis/actions/workflows/tests.yml/badge.svg)
+![license](https://img.shields.io/badge/license-MIT-blue.svg)
+
 Python-модель для сравнения пяти обезличенных инвестиционных проектов четырьмя методами. Расчёты перенесены из исходной Excel-модели в проверяемые функции, дополнены автоматическими тестами, рейтингом и визуализациями.
 
 ## Что оценивает модель
